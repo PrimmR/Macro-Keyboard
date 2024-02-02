@@ -7,7 +7,7 @@ However it's completely possible to get the keyboard to send the raw keypresses 
 
 ## Gallery
 
-https://github.com/PrimmR/Macro-Keyboard/assets/93214758/f05c9dab-4710-4b20-8bc0-e4f1701dee13
+![Video](Gallery/Vid.mp4)
 ![Top](Gallery/Top.jpg)
 ![Bottom](Gallery/Bottom.jpg)
 
