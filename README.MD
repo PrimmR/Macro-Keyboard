@@ -7,7 +7,7 @@ However it's completely possible to get the keyboard to send the raw keypresses 
 
 ## Gallery
 
-![Video](Gallery/Vid.mp4)
+Gallery/Vid.mp4
 ![Top](Gallery/Top.jpg)
 ![Bottom](Gallery/Bottom.jpg)
 
