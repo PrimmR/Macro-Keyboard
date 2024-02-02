@@ -1,9 +1,8 @@
 # Macro Keyboard
 
-This small project is my own design for a mini macro keyboard, with the goal that it doesn't require any special software, just a simple USB connection, can send regular keystrokes if needed, and is cheap to build. Oh, and that it looks nice! It was my first time designing a PCB myself, so the circuitry is very small and simple. Despite this, it worked first time and provides a nice, inexpensive way to have a device that can act as a mini keyboard.
+This small project is my own design for a mini macro keyboard, with the goal that it doesn't require any special software, can send regular keystrokes if needed, and is cheap to build. Oh, and that it looks nice! It was my first time designing a PCB myself, so the circuitry is very small and simple. Despite this, it worked first time and provides a nice, inexpensive way to have a device that can act as a mini keyboard.
 
-In default use, the device sends keystrokes of the non-accessible function keys, which can then be received and acted upon by a script. This means the device can act like a Stream Deck, a shortcut pad, or even a second controller for keyboard-based games.  
-However it's completely possible to get the keyboard to send the raw keypresses just by itself, as the config file is easily modifiable.
+In default use, the device sends keystrokes of the non-accessible function keys, which can then be received and acted upon by a script. This means the device can act like a Stream Deck, a shortcut pad, or even a second controller for keyboard-based games. However it's completely possible to get the keyboard to send the raw keypresses just by itself, as the config file is easily modifiable.
 
 ## Gallery
 
@@ -12,7 +11,8 @@ However it's completely possible to get the keyboard to send the raw keypresses 
 ![Bottom](Gallery/Bottom.jpg)
 
 ## Want to make one yourself?
-This build is quite simple and only requires a few things! (If there is any ambiguity with any of the steps below, please contact me directly, and I'll do my best to help)
+This build is quite simple and only requires a few things!  
+(If there is any ambiguity with any of the steps below, please contact me - I'll do my best to help)
 
 You will need:
 - A Raspberry Pi Pico
