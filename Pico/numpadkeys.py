@@ -1,3 +1,5 @@
+# Alternate keymapping that acts as a numpad
+
 from adafruit_hid.keycode import Keycode
 
 keys = [
